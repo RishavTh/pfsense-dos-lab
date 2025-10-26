@@ -12,7 +12,7 @@ This project simulates a **Denial-of-Service (DoS) attack detection and mitigati
 |              |                      | LAN: 192.168.1.1     |                             |
 | Victim       | Ubuntu Desktop       | 192.168.1.100        | Target of the DoS attack    |
 | Attacker     | Kali Linux           | 192.168.1.200        | Launches hping3 attack      |
-| Hypervisor   | Oracle VirtualBox    |                      | Virtual lab environment     |
+| Hypervisor   | Oracle VirtualBox    | From Host Network    | Virtual lab environment     |
 
 
 ## 🧰 Tools Used
